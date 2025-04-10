@@ -1,0 +1,40 @@
+{
+    "System": {
+        "Windows": {
+            "Forms": [
+                "Form",
+                "Label",
+                "Button",
+                "MessageBox",
+                "TextBox",
+                "CheckBox",
+                "RadioButton",
+                "ComboBox",
+                "ListBox",
+                "NumericUpDown",
+                "ProgressBar",
+                "TrackBar",
+                "DateTimePicker",
+                "MonthCalendar",
+                "PictureBox",
+                "Panel",
+                "GroupBox",
+                "TabControl",
+                "TabPage",
+                "ToolTip",
+                // "ToolStrip",
+                "MenuStrip",
+                "ContextMenuStrip",
+                "StatusStrip",
+                "OpenFileDialog",
+                "SaveFileDialog",
+                "FolderBrowserDialog",
+                "ColorDialog",
+                "FontDialog",
+                // "PrintDialog",
+                // "SplitContainer",
+                "NotifyIcon",
+            ]
+        }
+    }
+}
